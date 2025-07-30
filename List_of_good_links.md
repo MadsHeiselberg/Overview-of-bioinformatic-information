@@ -19,4 +19,14 @@ Technical programing skills
 	https://www.datacamp.com/
 
 
+Introducktion til github i Rstudio
+
+	 Introduktion til at bruge Rstudio sammen med GitHub desktop
+ 	https://www.youtube.com/watch?v=GeUzVSJ4glY&ab_channel=MattBirch
+
+	
+	Introduktion til at bruge GitHub direkte i Rstudio
+https://www.youtube.com/watch?v=sxErFMF7BJY&ab_channel=RiffomonasProject 
+
+
 	
