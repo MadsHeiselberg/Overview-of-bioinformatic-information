@@ -12,10 +12,18 @@ This repository is for an overview of the different webpages I have found with c
 |Tidyverse| | | |
 
 ### Python programming
-
+|Name|Description|Url|Notes|
+|:----:|:-----------:|:---:|:-----:|
+|| | | |
 ### snakemake
+|Name|Description|Url|Notes|
+|:----:|:-----------:|:---:|:-----:|
+|| | | |
 
 ### Biological dataset
+|Name|Description|Url|Notes|
+|:----:|:-----------:|:---:|:-----:|
+|| | | |
 
 
 
